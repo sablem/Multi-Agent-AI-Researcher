@@ -1,0 +1,8 @@
+streamlit>=1.44
+agno>=2.2.10,<4
+openai
+ollama
+ddgs
+newspaper4k
+lxml_html_clean
+python-dotenv
